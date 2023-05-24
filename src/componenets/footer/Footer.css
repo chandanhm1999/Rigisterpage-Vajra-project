@@ -1,0 +1,42 @@
+.footer_card{
+    position: relative;
+    width: 100%;
+    height: 80px;
+    top: 1140px;
+    left: 0px;
+    background: #1746A2;
+}
+.card_part1{
+    position: absolute;
+    width: 292px;
+    height: 27px;
+    left: 100px;
+    top: 27px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+.card_part12{
+    position: absolute;
+    width: 239px;
+    height: 27px;
+    left: 1000px;
+    top: 27px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
