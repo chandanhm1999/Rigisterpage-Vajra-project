@@ -7,7 +7,7 @@ import Grid from '@mui/material/Grid';
 import { useMediaQuery } from '@mui/material';
 
 const Navbar = () => {
-  const isMobileView = useMediaQuery('(max-width:600px)');
+  const isMobileView = useMediaQuery('(max-width:500px)');
 
   return (
     <div className='nav_card'>
